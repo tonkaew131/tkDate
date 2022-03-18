@@ -4,7 +4,7 @@ Time library for arduino
 
 ## Installation
 
-Put `tkDate` in `Documents/Arduino/libraries/`
+Put `tkDate` folder in `Documents/Arduino/libraries/`
 
 ## Example
 
@@ -17,7 +17,7 @@ tkDate date1(2020, 12, 31, 23, 59, 59);
 Serial.println(date1.toISOString());
 // 2020-12-01T23:59:59Z
 
-// Unix time (in seconds)
+// Epoch time (in seconds)
 Serial.println(date1.getTime());
 // 1606867199
 
