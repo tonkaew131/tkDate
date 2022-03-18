@@ -1,0 +1,15 @@
+tkDate  KEYWORD1
+
+getTime KEYWORD2
+setTime KEYWORD2
+
+getHours    KEYWORD2
+getMinutes  KEYWORD2
+getSeconds  KEYWORD2
+
+getDate     KEYWORD2
+getDay      KEYWORD2
+getMonth    KEYWORD2
+getFullYear KEYWORD2
+
+toISOString KEYWORD2
